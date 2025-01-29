@@ -21,7 +21,7 @@ Semantic shift is analyzed through **Sentence-BERT (SBERT)**, using **cosine sim
 
 ## Deployment  
 
-```sh  
+```
 python3 -m venv venv  
 source venv/bin/activate  
 pip3 install -r requirements.txt  
