@@ -1,0 +1,4 @@
+E' come il sale: basta poco per sbagliare la dose.
+E' importante essere opinionated per promuovere omogeneita' e rinforzare
+le pratiche che ci interessano, ma e' da usare con cura perche' se si
+diventa troppo opinionated ci si ingabbia in flussi poco ergonomici.

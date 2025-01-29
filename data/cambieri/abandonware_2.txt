@@ -1,0 +1,11 @@
+Topi morti, codice non piu' usato su cui per qualche motivo ci contiamo
+ancora illudendoci che funzioni. Il piu' delle volte sistemarlo costa
+piu' di scriverlo da zero, ma quando ci accorgiamo di cio' ormai e'
+troppo tardi e non possiamo tornare indietro per ripartire da capo.
+In sostanza e' debito tecnologico mascherato da asset aziendale. E'
+matematico che rimanga indietro rispetto agli standard aziendali e
+questo, che e' gia' un problema di per se, diventa ancora piu'
+pericoloso se qualcuno per sbaglio lo utilizza come "template" o prende
+spunto per sviluppare del codice nuovo.
+Sarebbe da cancellare/isolare periodicamente come parte del processo di
+mantenimento della base di codice.

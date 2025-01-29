@@ -1,0 +1,3 @@
+Produciamo ciclicamente software non usato da nessuno. Raccogliamo continuamente dati che nessuno va a interrogare. Tutto ciò è massa inerziale che rallenta inutilmente i nuovi sviluppi.
+Ciò che non è usato scopri che è rotto solo quando ti serve. Questo rende incerte le stime e fragili i progetti downstream.
+Diamo un utilizzatore a ciò che facciamo, utente pagante o non, umano o bot. Utile e utilizzato.

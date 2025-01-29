@@ -1,0 +1,1 @@
+responsabilità di allocare le risorse sullo sviluppo del programma, di assicurarsi che funzioni quando e come deve, e anche usato da chi deve usarlo, di accertarsi che il dato arrivi nel punto giusto e venga consumato. Se una di queste cose non si verifica, suonare l'allarme

@@ -1,0 +1,1 @@
+la volta scorsa avevo frainteso totalmente. per "opinionated" si intende una modalità di sviluppo in team che toglie libertà allo sviluppatore di utilizzare framework e librerie che vuole a favore di soluzioni prestabilite e condivise con il team.

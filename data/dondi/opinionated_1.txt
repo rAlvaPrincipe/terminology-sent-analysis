@@ -1,0 +1,2 @@
+invece di scrivere codice flessibile che gestisce le varie casistiche, attese e inattese, si preferisce codice più rigido che si rompe in modo controllato e informa dei problemi con l'input o il funzionamento. L'assunzione di base è che il codice flessibile e robusto è irraggiungibile a prescindere dall'impegno e dalle risorse investite nel scriverlo, fidarsi che un codice sia flessibile e robusto è pericoloso.
+La rigidità è modellata intorno al suddetto vangelo secondo Raffaele.

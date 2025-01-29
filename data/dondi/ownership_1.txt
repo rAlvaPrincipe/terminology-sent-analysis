@@ -1,0 +1,1 @@
+proprietà e responsabilità. Indica il sapere il funzionamento del codice, del flusso dati e pronti ad illustrare il flusso dati. Indica la responsabilità nel monitorare il funzionamento del codice, nell'intraprendere provvedimenti se si rompe, o nel discutere se il codice non deve più esistere

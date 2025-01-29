@@ -1,0 +1,1 @@
+con opinionated ci si riferisce a quel software o framework che obbliga lo sviluppatore o utilizzatore a seguire delle linee guida o un layout. l'obiettivo è di imporre un modo unico di fare qualcosa senza molte libertà. Questo approccio può dare benefici quali ordine, rigore, uniformità della code base.

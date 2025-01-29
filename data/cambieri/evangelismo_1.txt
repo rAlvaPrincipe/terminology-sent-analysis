@@ -1,0 +1,5 @@
+Immagino sia nel senso di "evangelizzare", nell'accezione di promuovere
+qualcosa agli altri. E' una componente importante in Datasinc e ci
+permette di "spargere" nel team idee, implementazioni, pattern ecc e di
+identificare delle figure di riferimento per certe aree quando abbiamo
+problemi.

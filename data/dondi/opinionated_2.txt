@@ -1,0 +1,1 @@
+rendere i programmi meno flessibili ma che seguano gli standard delle best-practices. invita il team a conformarsi intorno alle best practices

@@ -1,0 +1,2 @@
+Software abbandonato ma ancora nella base di codice, quindi soggetto a costi di mantenimento.
+Abbandonare un software può essere "difficile" ma non farlo genera problemi latenti e rallenta lo sviluppo del resto.
